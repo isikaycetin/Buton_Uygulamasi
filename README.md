@@ -1,2 +1,2 @@
-# Buton-Uygulamas-
+# Buton-Uygulamasi
 Ks1_2
