@@ -1,6 +1,5 @@
 # Buton-Uygulamasi
-Ks1_2
-Işıkay ÇETİN 1220505031-------Kutay YILDIRIM 1220505070
+
 
 Çalışma Mantığı-Algoritma:
 Öncelikle programımız için butonları oluşturmamız gerekmektedir.4x4  bir buton grid'i oluşturulur.Her bir buton "CustomButton" sınıfından türetilir ve adı "Buton 1", "Buton 2", ... şeklinde atanır.Butonlar başlangıçta beyaz(pasif) renkte oluşturulur.Basma işlemi gerçekleştikten sonra ise gri(aktif) renkte oluşturulur.
